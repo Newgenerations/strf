@@ -130,7 +130,7 @@ func gh() {
 	fmt.Println("sdt[2] = ", b)
 	fmt.Println("sdt[2] = ", string(b))
 }
-func point() {
+func Point() {
 	var a int = 20
 	var p *int
 	p = &a
